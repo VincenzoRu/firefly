@@ -9,7 +9,7 @@ This script is a Python-based implementation of the **Firefly Algorithm**, a met
 
 This project builds upon the work of my master's thesis, completed in 2014, where I implemented the Firefly Algorithm using VBA. The Python-based script represents an enhanced version of the algorithm, offering improved efficiency, scalability, and accuracy.
 
-Link to original master thesis paper: *[https://bit.ly/2zZpR4a](https://bit.ly/2zZpR4a)*  
+Link to original master thesis paper: https://bit.ly/2zZpR4a
 
 ---
 
