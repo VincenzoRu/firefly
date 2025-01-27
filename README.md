@@ -1,4 +1,4 @@
-# FIREFLY SCRIPT v2
+# Firefly Algorithm v2
 
 #### Description:
 
